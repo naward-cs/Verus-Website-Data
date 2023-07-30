@@ -1,0 +1,40 @@
+# Introduction to Verus
+
+Welcome to the Verus documentation. Here you find all mainnet and testnet protocol features and implementations. The documentation will be updated continuously.
+
+## Open-source, rent-free, scalable public infrastructure
+Verus is an open-source decentralized blockchain protocol with proof-of-work and proof-of-stake as its consensus mechanism. It offers rent-free blockchain tools for creators and organizations to build products, services and systems. 
+
+Verus is a multichain protocol with strong focus on scalability, security and decentralization. It can scale to world demand, is proven 51% hash attack resistant and is community built - all coins in circulation are fairly mined and staked.
+
+With Public Blockchains as a Service (PBaaS) anyone can launch scalable, interoperable, customizable and independent blockchains for public or private use. Create tokens and currencies on top of blockchains for any use case. Get funding and create markets with protocol level built-in DeFi.
+
+Protocol-level self-sovereign digital identities and namespaces are at the center of the Verus multichain protocol. Giving builders, communities, businesses and organizations tools never before seen.
+
+Everything happening on the Verus multichain protocol has aligned incentives with the miners and stakers of the worldwide network. This makes it one of the most secure protocols with opportunities to earn.
+
+### Accessibility
+Verus creates blockchain technology that is accessible for everyone.
+* **No programming needed for [blockchain](/blockchains/), [token and currency launches](/currencies/)**
+* **Low protocol fees**
+* **[Mining and staking accessible for everyone](/economy/)**
+
+### Scalability
+Verus achieves practically unlimited scalability through its [Public Blockchains as a Service](/blockchains/).
+* **Create use case specific blockchains and currencies** 
+* **Move activity between chains to avoid congestion**
+
+### Security
+Verus takes blockchain security to the next level. 
+* **51% hash attack resistant through [Verus Proof of Power](/overview/verus-proof-of-power/)**
+
+### Interoperability
+Verus enables a world where all blockchains communicate with eachother.
+* **Cross-chain, cross-system transfers of all data types**
+* **Bridges to communicate with external blockchains**
+
+### Community
+Verus is a community driven project in the true spirit of Bitcoin. 
+* **Fair launch**
+* **No ICO, no developer fees, no founder fees, no premine**
+* **[Decentralized public blockchain](/overview/decentralization/)**
